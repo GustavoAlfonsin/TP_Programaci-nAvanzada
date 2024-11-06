@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\",
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|c:\\users\\gustavo\\desktop\\segundo a\u00F1o\\segundo cuatrimestre\\programaci\u00F3n avanzada\\tp_programaci-navanzada\\cartas\\el\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\cartas\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\cartas\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\cartas\\cartaunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\cartas\\cartaunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\cartas\\cartaunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|c:\\users\\gustavo\\desktop\\segundo a\u00F1o\\segundo cuatrimestre\\programaci\u00F3n avanzada\\tp_programaci-navanzada\\el\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\mazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\cartas\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\cartas\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\unidad_ataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\unidad_ataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\unidad_ataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\el\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\el\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E6207E1-7AA0-4AD3-BFCE-FEA18E82FBFE}|EL\\BE.csproj|solutionrelative:el\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{422B66DB-4881-4D9F-858D-A5D80ABE3DE7}|BatallaNaval\\Cartas.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\batallanaval\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{422B66DB-4881-4D9F-858D-A5D80ABE3DE7}|BatallaNaval\\Cartas.csproj|C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\batallanaval\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{422B66DB-4881-4D9F-858D-A5D80ABE3DE7}|BatallaNaval\\Cartas.csproj|solutionrelative:batallanaval\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,27 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CartaUnidad.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Cartas\\CartaUnidad.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Cartas\\CartaUnidad.cs",
               "RelativeDocumentMoniker": "EL\\Cartas\\CartaUnidad.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Cartas\\CartaUnidad.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Cartas\\CartaUnidad.cs",
               "RelativeToolTip": "EL\\Cartas\\CartaUnidad.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAewBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:55:11.133Z"
+              "WhenOpened": "2024-11-05T22:55:11.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Carta.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Cartas\\Carta.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Cartas\\Carta.cs",
               "RelativeDocumentMoniker": "EL\\Cartas\\Carta.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Cartas\\Carta.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Cartas\\Carta.cs",
               "RelativeToolTip": "EL\\Cartas\\Carta.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,10 +77,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\BatallaNaval\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\BatallaNaval\\Form1.cs",
               "RelativeDocumentMoniker": "BatallaNaval\\Form1.cs",
               "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\Cartas\\BatallaNaval\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Cartas\\BatallaNaval\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Cartas\\BatallaNaval\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T22:44:22.268Z"
             },
@@ -87,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Unidad_Ataque.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Unidad_Ataque.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Unidad_Ataque.cs",
               "RelativeDocumentMoniker": "EL\\Unidad_Ataque.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Unidad_Ataque.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Unidad_Ataque.cs",
               "RelativeToolTip": "EL\\Unidad_Ataque.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Tipo.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Tipo.cs",
               "RelativeDocumentMoniker": "EL\\Tipo.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Tipo.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Tipo.cs",
               "RelativeToolTip": "EL\\Tipo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Partida.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Partida.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Partida.cs",
               "RelativeDocumentMoniker": "EL\\Partida.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Partida.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Partida.cs",
               "RelativeToolTip": "EL\\Partida.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Jugador.cs",
               "RelativeDocumentMoniker": "EL\\Jugador.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Jugador.cs",
               "RelativeToolTip": "EL\\Jugador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Unidad.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Unidad.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Unidad.cs",
               "RelativeDocumentMoniker": "EL\\Unidad.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Unidad.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Unidad.cs",
               "RelativeToolTip": "EL\\Unidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,13 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mazo.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Mazo.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Mazo.cs",
               "RelativeDocumentMoniker": "EL\\Mazo.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\Cartas\\EL\\Mazo.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Desktop\\Segundo A\u00F1o\\Segundo Cuatrimestre\\Programaci\u00F3n Avanzada\\TP_Programaci-nAvanzada\\EL\\Mazo.cs",
               "RelativeToolTip": "EL\\Mazo.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA+wBIAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T22:56:05.842Z",
               "EditorCaption": ""
